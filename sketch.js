@@ -1,8 +1,3 @@
-'use strict';
-
-//all code highly based off of Dan Shiffman's processing tutorials https://www.youtube.com/watch?v=IKB1hWWedMk
-
-//SoundFile file;
 var fft;
 let fft2;
 
