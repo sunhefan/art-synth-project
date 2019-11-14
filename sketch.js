@@ -10,7 +10,7 @@ var terrain = [];
 var terrain2 = [];
 let zoom = 2;
 let peak = 80;
-//let notes = ["A7","F6","G6","E6","D6"," "," "," "," "," "," "];
+
 let notes = [
   ["A7", "F6", "G6"],
   ["E6", "D6", "E5"],
