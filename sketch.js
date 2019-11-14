@@ -84,9 +84,7 @@ function draw() {
   stroke(c);
 
  zoom = map(mouseX, 0, width, 2, 100);
-  // translate(0, 0);
-  //rotateZ(radians(rotZ));
-  //-translate(0, -600);
+
   spectrum = fft.analyze();
   spectrum2 = fft2.analyze();
 
